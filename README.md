@@ -17,4 +17,8 @@ Justo después de la migración a Arduino intentaremos corroborar la informació
 softwares simuladores, tanto electrónicos como mecánicos. Con las debidas medidas de seguridad y prevención 
 médica intentaremos de ser posible llevar los cálculos a un modelo físico.
 
+Este repositorio cuenta con diversas carpetas, la carpeta de programas cuenta con un algoritmo para 
+la determinacion de la martiz con el método denavit-hartenberg. Contará con los diversos esquemas 
+y cálculos pertinentes.
+
 
